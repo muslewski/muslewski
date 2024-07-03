@@ -13,8 +13,8 @@ I believe in continuous learning and collaboration. I'm constantly seeking to ex
 ## Let's Connect!
 
 Feel free to:
-Explore my repositories
-Share your ideas!
-Reach out with any questions or collaboration opportunities.
+- Explore my repositories
+- Share your ideas!
+- Reach out with any questions or collaboration opportunities.
 
 ## Together, let's build something truly remarkable!
