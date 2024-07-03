@@ -1,5 +1,5 @@
 # Hi there!
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=36&pause=1000&color=36B4F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Coffee+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=36&pause=1000&color=00B1F7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Coffee+Enthusiast)](https://git.io/typing-svg)
 
 I'm a web developer passionate about crafting modern and engaging websites and web applications.  
 The more complex the challenge, the more I thrive!
