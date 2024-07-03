@@ -2,10 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=36&pause=1000&color=005FF7&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;Coffee+Enthusiast)](https://git.io/typing-svg)
 
 I'm a web developer passionate about crafting modern and engaging websites and web applications.  
-The more complex the challenge, the more I thrive!
-I bring your ideas to life by building user-friendly and responsive websites with a strong foundation in HTML, CSS, and JavaScript.
-Looking to create something impressive? 
-I can translate your vision into a website that will leave your customers amazed. ✨
 
 ## Here's what I bring to the table:
 - Expertise: Proven skills in HTML, CSS, and JavaScript
