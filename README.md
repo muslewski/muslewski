@@ -18,6 +18,7 @@ Recently, I've been focused on using AI tools alongside traditional development 
 
 * **[SAGE](https://github.com/muslewski/agentic-sage)** — a passive fleet judge for parallel AI coding sessions. Watches every session, changes nothing. → [sage.muslewski.com](https://sage.muslewski.com)
 * **[token-oracle](https://github.com/muslewski/token-oracle)** — provider-agnostic token usage-cap forecaster. Know when you'll hit the limit before you do.
+* **[Eventizer](https://eventizer.pl)** — a Polish event-services marketplace connecting organizers with vendors.
 
 ## Stack
 
