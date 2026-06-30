@@ -1,39 +1,22 @@
-# Hi there! 👋
+<p align="center">
+  <picture>
+    <source srcset="assets/banner.avif" type="image/avif">
+    <source srcset="assets/banner.webp" type="image/webp">
+    <img src="assets/banner.webp" alt="Mateusz Muślewski — dev tools · watch the fleet · forecast the limit" width="100%">
+  </picture>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto\&weight=900\&size=36\&pause=1000\&color=005FF7\&vCenter=true\&random=false\&width=700\&lines=Next.js+Developer;AI+Builder;Payload+CMS+Enthusiast;Always+Learning)]()
+I build small, sharp developer tools for the age of AI coding fleets — mostly zero-dependency, design-first.
 
-## About Me
+### Building
 
-I'm a developer passionate about building modern web applications and exploring how AI can accelerate creativity and development.
+- **[SAGE](https://github.com/muslewski/agentic-sage)** — a passive fleet judge for parallel AI coding sessions. Watches every session, changes nothing. → [sage.muslewski.com](https://sage.muslewski.com)
+- **[token-oracle](https://github.com/muslewski/token-oracle)** — provider-agnostic token usage-cap forecaster. Know when you'll hit the limit before you do.
 
-Recently, I've been focused on using AI tools alongside traditional development workflows for coding, content creation, image generation, audio processing, and automation. I enjoy experimenting with new technologies and finding practical ways to integrate them into real projects.
+### Stack
 
-## Current Stack
+Next.js · TypeScript · Payload CMS · PostgreSQL · Python
 
-* Next.js
-* TypeScript
-* Tailwind CSS
-* Payload CMS
-* PostgreSQL
-* Node.js
+### Reach me
 
-## Currently Exploring
-
-* AI-assisted development workflows
-* Claude Code and modern AI coding tools
-* AI for image, audio, and video generation
-* Automation and content creation systems
-* Python fundamentals and scripting
-
-## What I Care About
-
-* Clean user experiences
-* Fast and scalable applications
-* Continuous learning
-* Building useful things
-
-## Let's Connect
-
-Feel free to explore my repositories, share ideas, or reach out if you'd like to collaborate on something interesting.
-
-Always learning. Always building. 🚀
+[kontakt@muslewski.com](mailto:kontakt@muslewski.com)
